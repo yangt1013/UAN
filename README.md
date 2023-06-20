@@ -21,7 +21,13 @@ dataset
 └── train.csv
 └── test.csv
 ```
-2、Train from scratch with `train.py`.
+2、Train from scratch with `miniimagenet_train_few_shot.py`.
+
+## Testing
+
+Train from scratch with `miniimagenet_test_few_shot.py`.
+
+
 ## Citation
 Please cite our paper if you use GLPM in your work.
 ```bash
