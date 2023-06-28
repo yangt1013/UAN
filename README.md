@@ -29,7 +29,7 @@ Train from scratch with `miniimagenet_test_few_shot.py`.
 
 
 ## Citation
-Please cite our paper if you use GLPM in your work.
+Please cite our paper if you use UAN in your work.
 ```bash
 @InProceedings{du2021fine,
   title={Few shot ship recognition based on universal attention relationnet},
